@@ -14,7 +14,7 @@
 
 ### The Short Version
 
-I lead mobile engineering at a Fortune 50 company, where I architect platforms used by 150+ engineers. On the side, I'm building a startup from zero — writing every line of code, designing every screen, and shipping to 10 states. Before any of this, I served nearly 4 years in the U.S. Navy.
+I lead mobile engineering at a Fortune 50 company, where I architect platforms used by 150+ engineers. On the side, I'm building a startup from zero — writing every line of code, designing every screen, and shipping to 10 states. Before any of this, I served 4 years in the U.S. Navy, then earned my CS degree from Columbia University.
 
 I don't have a typical path into tech, and I think that's what makes me good at it.
 
@@ -26,7 +26,7 @@ I don't have a typical path into tech, and I think that's what makes me good at 
 <tr>
 <td width="120" align="center"><b>2023–Now</b></td>
 <td>
-<b>Lead Software Engineer</b> — Fortune 50 Company (Remote)<br/>
+<b>Lead Software Engineer</b> — Fortune 50 Company<br/>
 <sub>Architected a cross-platform mobile SDK (Kotlin Multiplatform) adopted by <b>150+ engineers</b> across the organization. Led mobile development for flagship consumer apps, driving a <b>236% revenue increase</b> and <b>7% MAU lift</b>. Mentored 10+ engineers. Established RFCs, ADRs, and trunk-based development practices across mobile teams.</sub>
 </td>
 </tr>
