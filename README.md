@@ -145,14 +145,15 @@ Homeowners select their property, pick services, and book instantly. Landscapers
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryannapp12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannapp12&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryannapp12&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=555555" />
 
 </div>
+
+> Most of my work lives under [**Skape-Industries**](https://github.com/Skape-Industries) — 4 active repos, 7+ years of commits.
 
 ---
 
