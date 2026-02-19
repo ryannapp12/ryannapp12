@@ -27,28 +27,28 @@ I don't have a typical path into tech, and I think that's what makes me good at 
 <td width="120" align="center"><b>2023–Now</b></td>
 <td>
 <b>Lead Software Engineer</b> — Fortune 50 Company<br/>
-<sub>Architected a cross-platform mobile SDK (Kotlin Multiplatform) adopted by <b>150+ engineers</b> across the organization. Led mobile development for flagship consumer apps, driving a <b>236% revenue increase</b> and <b>7% MAU lift</b>. Mentored 10+ engineers. Established RFCs, ADRs, and trunk-based development practices across mobile teams.</sub>
+<sub>Defined and executed the mobile platform strategy across a 150+ engineer organization. Architected a cross-platform SDK (Kotlin Multiplatform) that unified iOS and Android development under a single shared codebase, reducing feature delivery time and eliminating cross-platform drift. Owned the technical roadmap for flagship consumer apps, directly driving a <b>236% revenue increase</b> and <b>7% MAU lift</b>. Established engineering standards org-wide — RFCs, ADRs, trunk-based development, SLOs, and app observability. Built and mentored a team of 10+ engineers across multiple squads. Operated as the bridge between product, design, and engineering leadership to align on priorities and ship at pace.</sub>
 </td>
 </tr>
 <tr>
 <td width="120" align="center"><b>2018–Now</b></td>
 <td>
 <b>Founder & CEO</b> — <a href="https://github.com/Skape-Industries">Skape Industries</a><br/>
-<sub>Built an on-demand landscaping marketplace from scratch — solo. Two Flutter apps (homeowner + landscaper), Firebase backend, Stripe Connect payments, real-time bidding, AI-powered property analysis using GPT-4o and SAM 2 computer vision. Live in <b>10 states, 19 service areas</b>. Registered trademark. <a href="https://skape.us">skape.us</a></sub>
+<sub>Designed, built, and shipped an entire on-demand landscaping marketplace — solo, end to end. Two cross-platform Flutter apps (homeowner + landscaper), a Next.js marketing website, an internal admin dashboard (Next.js + Tailwind + Mapbox) with real-time operations map and user management, a Firebase backend with 13+ Cloud Functions (TypeScript), Stripe Connect for payments and landscaper payouts, Algolia for geosearch, and an AI-powered property analysis pipeline using GPT-4o, Meta's SAM 2 for image segmentation, and public GIS parcel data from 7+ state agencies. Live in <b>10 states, 19 service areas</b>. Registered U.S. trademark. <a href="https://skape.us">skape.us</a></sub>
 </td>
 </tr>
 <tr>
 <td width="120" align="center"><b>2022–2025</b></td>
 <td>
 <b>Staff Engineer</b> — Minor Chores<br/>
-<sub>Primary technical owner. Full architecture ownership across React Native mobile app and AWS Amplify backend. Sole engineer responsible for shipping features, maintaining infrastructure, and scaling the platform.</sub>
+<sub>Sole technical owner of the entire product — mobile app (React Native), backend (AWS Amplify), infrastructure, CI/CD, and production operations. Made all architecture decisions, drove the technical roadmap, shipped features end to end, and managed production reliability with zero other engineers on the team. Scaled the platform from early product to steady-state operations.</sub>
 </td>
 </tr>
 <tr>
 <td width="120" align="center"><b>2022–2023</b></td>
 <td>
 <b>SDET</b> — Voyager<br/>
-<sub>Built an automated test framework from zero using Python and Docker. Scaled to <b>200+ daily automated tests</b> with full CI/CD integration.</sub>
+<sub>Designed and built an automated test framework from zero using Python and Docker. Scaled from no test coverage to <b>200+ daily automated tests</b> integrated into CI/CD, establishing quality gates that caught regressions before they reached production.</sub>
 </td>
 </tr>
 </table>
