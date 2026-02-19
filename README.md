@@ -63,7 +63,7 @@ I don't have a typical path into tech, and I think that's what makes me good at 
 
 ### 🇺🇸 U.S. Navy
 
-Nearly 4 years active duty. Enlisted Warfare Specialist (EAWS) qualified. Served as a team lead responsible for personnel and mission execution.
+4 years active duty. Served as a team lead responsible for personnel and mission execution.
 
 The Navy is where I learned discipline, accountability, and how to perform under pressure — skills that carry into everything I build today.
 
