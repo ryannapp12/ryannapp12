@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-napolitano-a4a47610b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryannapp@gmail.com)
+[![World Credit](https://img.shields.io/badge/World_Credit-060B1E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMDBGRkM4Ij48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnoiLz48L3N2Zz4=&logoColor=00FFC8)](https://world-credit.com)
 [![Skape](https://img.shields.io/badge/Skape-209523?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6Ii8+PC9zdmc+&logoColor=white)](https://skape.us)
 
 </div>
@@ -14,7 +15,7 @@
 
 ### The Short Version
 
-I lead mobile engineering at a Fortune 50 company, where I architect platforms used by 150+ engineers. On the side, I'm building a startup from zero — writing every line of code, designing every screen, and shipping to 10 states. Before any of this, I served 4 years in the U.S. Navy, then earned my CS degree from Columbia University.
+I lead mobile engineering at a Fortune 50 company, where I architect platforms used by 150+ engineers. On the side, I'm building two startups from zero — a universal trust scoring platform and an on-demand landscaping marketplace — writing every line of code, designing every screen, and shipping to real users. Before any of this, I served 4 years in the U.S. Navy, then earned my CS degree from Columbia University.
 
 I don't have a typical path into tech, and I think that's what makes me good at it.
 
@@ -28,6 +29,13 @@ I don't have a typical path into tech, and I think that's what makes me good at 
 <td>
 <b>Lead Software Engineer</b> — Fortune 50 Company<br/>
 <sub>Defined and executed the mobile platform strategy across a 150+ engineer organization. Architected a cross-platform SDK (Kotlin Multiplatform) that unified iOS and Android development under a single shared codebase, reducing feature delivery time and eliminating cross-platform drift. Owned the technical roadmap for flagship consumer apps, directly driving a <b>236% revenue increase</b> and <b>7% MAU lift</b>. Established engineering standards org-wide — RFCs, ADRs, trunk-based development, SLOs, and app observability. Built and mentored a team of 10+ engineers across multiple squads. Operated as the bridge between product, design, and engineering leadership to align on priorities and ship at pace.</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>2025–Now</b></td>
+<td>
+<b>Founder & CEO</b> — <a href="https://github.com/World-Credit-Inc">World Credit Inc.</a><br/>
+<sub>Building a universal trust score — a single, portable reputation that aggregates signals from identity verification, financial accounts, social networks, professional profiles, and peer vouches into one score (0–100, Bronze through Platinum). Flutter app (iOS & Android), Firebase backend with Cloud Functions, Stripe for subscription billing, and a suite of SDKs (Web, iOS, Android, Flutter) so any platform can embed verified trust badges via API. Privacy-first by design. <a href="https://world-credit.com">world-credit.com</a></sub>
 </td>
 </tr>
 <tr>
@@ -66,6 +74,30 @@ I don't have a typical path into tech, and I think that's what makes me good at 
 4 years active duty. Served as a team lead responsible for personnel and mission execution.
 
 The Navy is where I learned discipline, accountability, and how to perform under pressure — skills that carry into everything I build today.
+
+---
+
+### 🌐 What I'm Building: World Credit
+
+**[World Credit](https://world-credit.com)** is a universal trust score — a single, portable reputation that proves you're real, reliable, and trustworthy.
+
+We aggregate signals from across your digital life — identity verification, financial accounts, social networks, professional profiles, and peer vouches — into one score (0–100, Bronze through Platinum) that travels with you. No credit pulls. You control what you share.
+
+**I built the entire platform solo:**
+
+| Component | Stack |
+|:--|:--|
+| 📱 App (iOS & Android) | Flutter, Dart, BLoC, Firebase Auth (Apple, Google, Phone) |
+| 🔥 Backend | Firebase, Cloud Functions (TypeScript), Firestore |
+| 💳 Billing | Stripe (subscriptions, checkout, webhooks) |
+| 🌐 Website | Static HTML/CSS, Firebase Hosting |
+| 📦 SDKs | Web (JS), iOS (Swift Package), Android (Kotlin), Flutter (Dart) |
+| 🔑 Badge API | Cloud Functions, API key auth, tiered rate limiting |
+| 🛡️ Dashboard | Stripe-integrated developer portal for API key management |
+
+**For platforms** — Embed trust badges (inline, pill, card, shield) directly into your product with drop-in SDKs for Web, iOS, Android, and Flutter. Or call the REST API directly. Reduce fraud, increase trust, and make better decisions about your users.
+
+> **[World-Credit-Inc on GitHub](https://github.com/World-Credit-Inc)** · **[world-credit.com](https://world-credit.com)** · **[SDK Docs](https://world-credit.com/sdk/)**
 
 ---
 
@@ -153,7 +185,7 @@ Homeowners select their property, pick services, and book instantly. Landscapers
 
 </div>
 
-> Most of my work lives under [**Skape-Industries**](https://github.com/Skape-Industries) — 4 active repos, 7+ years of commits.
+> Most of my work lives under [**World-Credit-Inc**](https://github.com/World-Credit-Inc) and [**Skape-Industries**](https://github.com/Skape-Industries) — active repos, years of commits.
 
 ---
 
@@ -168,10 +200,10 @@ Homeowners select their property, pick services, and book instantly. Landscapers
 
 <div align="center">
 
-**Navy → Columbia → Fortune 50 → Building my own thing.**
+**Navy → Columbia → Fortune 50 → Building my own things.**
 
 It's not about the fall. It's about the comeback.
 
-📧 [ryannapp@gmail.com](mailto:ryannapp@gmail.com) · 🌐 [skape.us](https://skape.us) · 🏢 [Skape Industries](https://github.com/Skape-Industries)
+📧 [ryannapp@gmail.com](mailto:ryannapp@gmail.com) · 🌐 [world-credit.com](https://world-credit.com) · 🌿 [skape.us](https://skape.us) · 🏢 [World-Credit-Inc](https://github.com/World-Credit-Inc) · 🏢 [Skape-Industries](https://github.com/Skape-Industries)
 
 </div>
