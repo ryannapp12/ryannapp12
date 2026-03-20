@@ -15,9 +15,21 @@
 
 ### The Short Version
 
-I lead mobile engineering at a Fortune 50 company, where I architect platforms used by 150+ engineers. On the side, I'm building two startups from zero — a universal trust scoring platform and an on-demand landscaping marketplace — writing every line of code, designing every screen, and shipping to real users. Before any of this, I served 4 years in the U.S. Navy, then earned my CS degree from Columbia University.
+Navy veteran. Founder. Engineering leader who builds, ships, and leads from the front.
 
-I don't have a typical path into tech, and I think that's what makes me good at it.
+From enlisting in the Navy to Columbia engineering to leading mobile teams at Fortune 50’s to founding two companies — 8+ years of building things that work, for people who need them.
+
+I live in mobile. Flutter, Kotlin Multiplatform, SwiftUI, Jetpack Compose, React Native — I've shipped production apps in all of them and know exactly when to reach for each. But the apps are just the surface. I design the systems underneath: API contracts, CI/CD pipelines, observability, payments infrastructure, and the cross-platform architecture that lets small teams punch way above their weight.
+
+What sets me apart:
+I started in the U.S. Navy. Four years leading teams where failure isn't a retro topic — it's a real consequence. That shows up in everything I build: bias for action, zero tolerance for fragile systems, and an ownership mentality that doesn't end at the edge of my role.
+
+As a founder, I've done every job. Product vision, system design, app development, cloud infrastructure, payments, hiring, go-to-market. I've taken ideas from napkin sketch to the App Store with lean teams and tight budgets — multiple times. I know what it costs to ship, and I know what it costs to cut corners.
+
+How I lead:
+I don't manage engineers — I build engineering cultures. The kind where people argue about architecture in Slack at 11pm because they actually care and where engineers own the outcome — not just the Jira ticket. RFCs over egos. Ownership over ownership-theater. I've turned junior devs into tech leads and turned "that's not my job" teams into "I already fixed it" teams. I mentor hard, hire for hunger, and set a pace that people are proud of, not burned out by.
+
+I'm not looking to manage a roadmap. I'm looking to build something that matters.
 
 ---
 
